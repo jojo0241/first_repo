@@ -1,0 +1,67 @@
+.mvt{
+
+    height: 500px;
+    width: 800px;
+    background-color: yellow;
+    border-radius: 20px;
+    border-style:ridge;
+    position:relative;
+    margin-top: 0%;
+    margin-left: 20%;
+}
+h1{
+    font-family: 'GROBOLD';
+    font-display: 15px;
+    color: rgba(red, green, blue, alpha);
+    text-shadow: green 2px 5px
+}
+body{
+
+    background-image: url("image/jojo.jpg");
+    background-position : center;
+    background-repeat: no-repeat;
+    backdrop-filter: blur(10px);
+    
+    
+}
+input[type=text]{
+
+    height: 50px;
+    width: 90%;
+    border-radius: 50px;
+    border-style:groove;
+    padding: 2px;
+    font-size: 20px;
+    font-family: 'Uni Sans';
+    border-color: aqua;
+    
+    
+}
+input[type=submit]{
+
+    height: 30px;
+    width: 50%;
+    border-radius: 30px;
+    border-style:inherit;
+    padding: 2px;
+    color: brown;
+    font-size: 20px;
+    border-color: aqua;
+    
+    
+}
+.img{
+
+    background-image: url("image/yael.jpg");
+    height: 150px;
+    width: 150px;
+    border-radius: 30%;
+    position: relative;
+    margin-top: -2%;
+    margin-left: 0%;
+    border-style: groove;
+    border-color: aqua;
+    background-repeat: no-repeat;
+    
+
+}
